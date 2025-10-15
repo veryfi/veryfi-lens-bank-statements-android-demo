@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Barcodes Lens Demo</string>
+    <string name="app_name">Bank Statements Lens Demo</string>
     <string name="btn_ok">OK</string>
     <string name="btn_cancel">Cancel</string>
     <string name="btn_scan">Scan</string>
