@@ -360,7 +360,7 @@ class MainActivity : AppCompatActivity() {
         veryfiLensSettings.externalId = externalId
         veryfiLensSettings.ignoreRemoteSettings = ignoreRemoteSettings
         veryfiLensSettings.dataExtractionEngine = VeryfiLensSettings.ExtractionEngine.VeryfiCloudAPI
-        veryfiLensSettings.documentTypes = arrayListOf(DocumentType.BANK_STATEMENTS)
+        veryfiLensSettings.documentTypes = arrayListOf(DocumentType.BANK_STATEMENT)
         veryfiLensSettings.showDocumentTypes = true
 
         val veryfiLensCredentials = VeryfiLensCredentials()
